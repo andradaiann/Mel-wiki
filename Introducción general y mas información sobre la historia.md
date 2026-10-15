@@ -8,7 +8,7 @@ Es un juego narrativo, viviremos su reencuentro, conoceremos a ambas chicas, su 
 ## Mas información
 
 Este bloque contendrá información suelta valiosa de aclarar sobre la trama del juego.
-Se recomienda leer antes [[Información de los personajes]], [[Información del tramo del juego]], y [[Tramo del juego]].
+Se recomienda leer antes [[Información de los personajes]], [[Información del tramo del juego]], y [[Tramo del juego]]. Es opcional tambien leer [[Diseño de gameplay]].
 ### Sobre el viaje
 
 #### ¿Por qué Mel vuelve al pueblo?
