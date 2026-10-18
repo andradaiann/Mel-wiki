@@ -87,7 +87,7 @@ Un escenario de prueba con personajes y fondo, y un control para barrer temperat
 
 Cuerpos más cortos, cabeza con forma distinta, colores nuevos. Los pelos y ropas existentes se importan a la base nueva con retoques mínimos.
 
-Cambiar proporciones toca más de lo que parece: máscaras de colisión, origins, el sprite del abrazo, los retratos, el centrado del abrazo, de dónde salen los corazones. **Convención a respetar:** origin siempre en los pies, máscara siempre en la base. Con eso, casi todo el código sobrevive sin cambios.
+Cambiar proporciones toca más de lo que parece: máscaras de colisión, origins, el sprite del abrazo, los retratos, el centrado del abrazo, de dónde salen los corazones. 
 
 ### 0.4.1 — Plantilla de expresiones faciales
 
@@ -146,13 +146,13 @@ Puede usar el mismo formato que `scr_objects` (`base` + una clave por momento).
 
 ---
 
-## 0.7 — Cámara y profundidad
+## 0.7 — EXPERIMENTO: Cámara y profundidad
 
 ### 0.7.0 — Parallax
 
 Atado al depth. Detalle de producción al dibujar: las capas de **primer plano** se desplazan más rápido que la cámara, así que necesitan más ancho que la room — no alcanza con dibujar al tamaño del escenario.
 
-### 0.7.1 — (experimento) Blur de primer plano
+### 0.7.1 — Blur de primer plano
 
 Entra solo si pasa la prueba. La sospecha: el borde duro es lo que sostiene el estilo vectorial, y desenfocarlo puede leerse como filtro antes que como profundidad de campo. Probarlo junto con la textura de papel, porque la combinación —textura nítida sobre dibujo borroso— es exactamente la que hay que ver antes de decidir.
 
@@ -188,7 +188,7 @@ La idea es la de Chowder: el elemento se mueve y la textura no, así que el pelo
 
 ---
 
-## alpha 1.0
+## prealpha 1.0
 
 Motor congelado. A partir de acá, contenido.
 
