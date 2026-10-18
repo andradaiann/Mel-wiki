@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diseño de gameplay.md",
-                "mode": "source",
+                "file": "Plan de desarrollo alpha 1.0.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diseño de gameplay"
+              "title": "Plan de desarrollo alpha 1.0"
             }
           },
           {
@@ -200,11 +200,12 @@
   },
   "active": "f13915fb411a2d3c",
   "lastOpenFiles": [
+    "Diseño de gameplay.md",
+    "Plan de desarrollo alpha 1.0.md",
     "Introducción general y mas información sobre la historia.md",
     "Información del tramo del juego.md",
     "Momentos del juego y escenarios.md",
     "Tramo del juego.md",
-    "Diseño de gameplay.md",
     "Información de los personajes.md",
     "imagenes/Pasted image 20261015132926.png",
     "imagenes/celular 1.png",
