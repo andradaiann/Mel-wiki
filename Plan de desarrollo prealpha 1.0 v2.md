@@ -1,4 +1,4 @@
-Plan para llevar el motor desde el estado actual (prealpha 0.1.0) hasta la **alpha 1.0**, momento en el que las bases quedan congeladas y se pasa a escribir contenido real.
+Plan para llevar el motor desde el estado actual (prealpha 0.1.0) hasta la **prealpha 1.0**, momento en el que las bases quedan congeladas y se pasa a escribir contenido real.
 
 Dos reglas que valen para todo el plan:
 
